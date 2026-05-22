@@ -19,9 +19,9 @@
   
   <p>At Hybeetech_Services, we're committed to helping you reach your professional goals and creating a lasting impression. Let us take your career and brand to new heights. Contact us today to get started!</p>
 
-  <p>LinkedIn page: <a href="https://www.linkedin.com/company/hybeetech-services/">Hybeetech_Services</a></p>
+  <p>LinkedIn page: <a href="https://www.linkedin.com/company/techola-fusion-services/">Tech-Ola Fusion Services</a></p>
   <p>Business WhatsApp: <a href="https://wa.me/message/SOUONPSCRYMGI1">Contact us</a></p>
-  <p>Website: <a href="https://getfidia.com/Hybeetech_services/">Hybeetech_Services</a></p>
+  <!--<p>Website: <a href="https://getfidia.com/Hybeetech_services/">Tech-Ola Fusion Services</a></p>-->
 </body>
 </html>
 
